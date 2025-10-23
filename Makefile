@@ -2,7 +2,7 @@
 # Debian deps (native):  sudo apt-get install libsdl2-dev libsdl2-image-dev
 # Emscripten:            https://emscripten.org/docs/getting_started/downloads.html
 
-APP      := shmup
+APP      := emstarter
 SRC_DIR  := src
 OBJ_DIR  := build
 
